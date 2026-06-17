@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">UI/UX Designer 🤝 Front-End Developer<br><br>I'm an Informatics Engineering student at **Institut Teknologi PLN** who loves bridging the gap between pixel-perfect design and clean, functional code. <br><br>I specialize in crafting intuitive user experiences and bringing them to life through responsive web interfaces. When I'm not coding, you can find me working on freelance logo designs and motion graphics with a minimalist and modern aesthetic. 🚀<br><br>
+<p align="left">UI/UX Designer 🤝 Front-End Developer<br><br>I'm an Informatics Engineering student at Institut Teknologi PLN who loves bridging the gap between pixel-perfect design and clean, functional code. <br><br>I specialize in crafting intuitive user experiences and bringing them to life through responsive web interfaces. When I'm not coding, you can find me working on freelance logo designs and motion graphics with a minimalist and modern aesthetic. 🚀<br><br>
 ⚡ What I do<br>- 🎓 Studying Informatics Engineering at ITPLN.<br>- 💻 Building modern, responsive web apps (currently enjoying React & Tailwind CSS).<br>- 🎨 Designing intuitive UI/UX and crafting strong visual identities.<br>- 🌐 Exploring Web3 technologies and decentralized aesthetics.<br>- ✨ Freelancing as a Logo Designer & Motion Graphic Artist.</p>
 
 ###
